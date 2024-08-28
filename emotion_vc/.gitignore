@@ -2,9 +2,8 @@
 __pycache__/
 *.py[cod]
 myenv
-venv
-data
 models
+data
 # C extensions
 *.so
 
